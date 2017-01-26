@@ -1,8 +1,8 @@
 # The Idea
-Build a wrist-mounted pulse sensor that reads your heart beat and gives live feedback of your heart beat via a tactile feedback (vibration). The feedback would provide a greater awareness of one's current heart rate and aid in meditative practice.
+Build a wrist-mounted pulse sensor that reads your heart beat and gives live feedback of your heart beat via tactile feedback (vibration). The feedback would provide a greater awareness of one's current heart rate and aid in meditative practice.
 
 # The problem
-Even the most advanced ir-based heart rate sensors have a large margin of error. Algorithms are used to estimate the heart rate so getting a signal clear enough to provide tactile feedback would require electrodes and reduce the portability of teh device beyond marketability. 
+Even the most advanced ir-based heart rate sensors have a large margin of error. Algorithms are used to estimate the heart rate so getting a signal clear enough to provide tactile feedback would require electrodes and reduce the portability of the device beyond marketability. 
 
 # Next steps
 Once the sensors on smart watches have improved enough and there are apis that allow for access to raw output data from the sensor, this project can be revisited as a smart-phone app.
